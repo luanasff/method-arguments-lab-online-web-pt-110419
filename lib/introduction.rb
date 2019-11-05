@@ -1,6 +1,6 @@
 def introduction(name)
-  
+  puts "Hello #{name}!"
 end
 
 
-puts "Hello #{name}!"
+
